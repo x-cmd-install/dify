@@ -1,0 +1,68 @@
+about:
+  description: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+  license: NOASSERTION
+  homepage: https://dify.ai
+  head: f8dd276
+  archived: false
+  latestVersion: 1.17.0
+  collectedAt: 2026-08-29T07:24:17Z
+timeline:
+  created: 2023-04-12
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-25
+popularity:
+  star: 153792
+  watcher: 827
+  fork: 24307
+  release: 169
+  contributor: 1448
+  pullRequest: 3917
+  issue: 18762
+language:
+  TypeScript: 39343526
+  Python: 36594678
+  JavaScript: 1478416
+  Go: 377059
+  CSS: 264482
+  HTML: 165358
+  Shell: 116893
+  Gherkin: 58603
+  Makefile: 17218
+  PowerShell: 12462
+  Dockerfile: 12284
+  PHP: 6106
+  Mako: 518
+totalLine: 78447603
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 774
+    openPR: 230
+    closedIssue: 160
+    openIssue: 137
+    commit: 980
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 2233
+    openPR: 443
+    closedIssue: 634
+    openIssue: 284
+    commit: 2940
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 3974
+    openPR: 606
+    closedIssue: 1804
+    openIssue: 303
+    commit: 5530
+  last360d:
+    since: 2025-09-03
+    release: 28
+    mergedPR: 6318
+    openPR: 664
+    closedIssue: 5529
+    openIssue: 309
+    commit: 8815
