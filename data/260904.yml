@@ -1,29 +1,31 @@
 about:
-  description: Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+  description:
+  |
+    Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
   license: NOASSERTION
   homepage: https://dify.ai
-  head: 5b13b7a
+  head: ad90cb9
   archived: false
   latestVersion: 1.17.0
-  collectedAt: 2026-09-04T05:07:16Z
+  collectedAt: 2026-09-04T20:02:24Z
 timeline:
   created: 2023-04-12
   lastCommit: 2026-09-04
   lastRelease: 2026-08-25
 popularity:
-  star: 154394
+  star: 154458
   watcher: 836
-  fork: 24404
+  fork: 24413
   release: 169
-  contributor: 1452
-  pullRequest: 4005
-  issue: 18848
+  contributor: 1435
+  pullRequest: 17858
+  issue: 18853
 language:
-  TypeScript: 39767857
-  Python: 37125541
+  TypeScript: 40383013
+  Python: 37192293
   JavaScript: 1514796
   Go: 377059
-  CSS: 264720
+  CSS: 279290
   HTML: 165358
   Shell: 117043
   Gherkin: 58603
@@ -32,37 +34,63 @@ language:
   Dockerfile: 12343
   PHP: 6106
   Mako: 518
-totalLine: 79439606
+totalBytes: 80136084
 recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 814
-    openPR: 248
-    closedIssue: 165
-    openIssue: 151
-    commit: 947
+    mergedPR: 854
+    openPR: 238
+    closedIssue: 177
+    openIssue: 144
+    commit: 1002
+  last60d:
+    since: 2026-07-06
+    release: 4
+    mergedPR: 1693
+    openPR: 353
+    closedIssue: 388
+    openIssue: 261
+    commit: 2086
   last90d:
     since: 2026-06-06
     release: 5
-    mergedPR: 2267
-    openPR: 453
-    closedIssue: 631
-    openIssue: 314
-    commit: 2921
+    mergedPR: 2306
+    openPR: 442
+    closedIssue: 643
+    openIssue: 307
+    commit: 2976
   last180d:
     since: 2026-03-08
     release: 11
-    mergedPR: 4022
-    openPR: 626
-    closedIssue: 1758
-    openIssue: 336
-    commit: 5498
+    mergedPR: 4061
+    openPR: 615
+    closedIssue: 1770
+    openIssue: 329
+    commit: 5553
   last360d:
     since: 2025-09-09
     release: 27
-    mergedPR: 6330
-    openPR: 691
-    closedIssue: 5415
-    openIssue: 343
-    commit: 8802
+    mergedPR: 6369
+    openPR: 680
+    closedIssue: 5427
+    openIssue: 336
+    commit: 8857
+  last720d:
+    since: 2024-09-14
+    release: 77
+    mergedPR: 10517
+    openPR: 684
+    closedIssue: 14763
+    openIssue: 338
+    commit: 9828
+total:
+  release: 169
+  mergedPR: 13877
+  openPR: 684
+  closedIssue: 18515
+  openIssue: 338
+  commit: 13122
+---
+---
+
