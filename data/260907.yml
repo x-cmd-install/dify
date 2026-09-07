@@ -2,119 +2,119 @@ about:
   description: "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack."
   license: NOASSERTION
   homepage: https://dify.ai
-  head: 5f978fe
+  head: 0df092d
   archived: false
   latestVersion: "1.17.0"
-  collectedAt: 2026-09-07T05:50:43Z
+  collectedAt: 2026-09-07T18:38:14Z
 timeline:
   created: 2023-04-12
   lastCommit: 2026-09-07
   lastRelease: 2026-08-25
 popularity:
-  star: 154675
+  star: 154765
   watcher: 837
-  fork: 24451
+  fork: 24463
   release: 169
-  contributor: 1438
-  pullRequest: 17909
-  issue: 18862
+  contributor: 1441
+  pullRequest: 17931
+  issue: 18867
 language:
-  TypeScript: 40414285
-  Python: 37322043
+  TypeScript: 40405164
+  Python: 37352950
   JavaScript: 1514796
   Go: 377059
   CSS: 279290
   HTML: 165358
-  Shell: 117043
+  Shell: 121921
   Gherkin: 58603
   Makefile: 17200
   PowerShell: 12462
   Dockerfile: 12343
   PHP: 6106
   Mako: 518
-totalBytes: 80297106
+totalBytes: 80323770
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 798
-    openPR: 249
-    closedIssue: 167
-    openIssue: 144
-    commit: 741
+    mergedPR: 817
+    openPR: 251
+    closedIssue: 169
+    openIssue: 147
+    commit: 765
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 1644
+    mergedPR: 1664
     openPR: 367
-    closedIssue: 374
-    openIssue: 248
-    commit: 1880
+    closedIssue: 377
+    openIssue: 250
+    commit: 1904
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 2282
-    openPR: 459
-    closedIssue: 621
-    openIssue: 314
-    commit: 2825
+    mergedPR: 2302
+    openPR: 457
+    closedIssue: 625
+    openIssue: 315
+    commit: 2849
   last180d:
     since: 2026-03-11
     release: 11
-    mergedPR: 4011
-    openPR: 635
-    closedIssue: 1719
-    openIssue: 337
-    commit: 5339
+    mergedPR: 4032
+    openPR: 632
+    closedIssue: 1723
+    openIssue: 338
+    commit: 5363
   last360d:
     since: 2025-09-12
     release: 27
-    mergedPR: 6343
-    openPR: 703
-    closedIssue: 5332
-    openIssue: 344
-    commit: 8783
+    mergedPR: 6364
+    openPR: 700
+    closedIssue: 5336
+    openIssue: 345
+    commit: 8807
   last720d:
     since: 2024-09-17
     release: 77
-    mergedPR: 10527
-    openPR: 707
-    closedIssue: 14740
-    openIssue: 346
-    commit: 9825
+    mergedPR: 10548
+    openPR: 704
+    closedIssue: 14744
+    openIssue: 347
+    commit: 9845
 total:
   release: 169
-  mergedPR: 13901
-  openPR: 707
-  closedIssue: 18516
-  openIssue: 346
-  commit: 13145
+  mergedPR: 13922
+  openPR: 704
+  closedIssue: 18520
+  openIssue: 347
+  commit: 13165
 ---
 path: /home/runner/.x-repo/github.com/langgenius/dify
-collectedAt: 2026-09-07T05:51:41Z
+collectedAt: 2026-09-07T18:39:01Z
 loc:
   Python:
-    code: 793639
-    comments: 27064
-    blanks: 145270
-    files: 3957
+    code: 794277
+    comments: 27057
+    blanks: 145391
+    files: 3962
   Tsx:
-    code: 704156
-    comments: 14015
-    blanks: 91220
+    code: 703911
+    comments: 13993
+    blanks: 91162
     files: 4491
   TypeScript:
-    code: 357084
-    comments: 18768
-    blanks: 51557
-    files: 2491
+    code: 356729
+    comments: 18770
+    blanks: 51508
+    files: 2490
   Json:
     code: 203855
     comments: 0
     blanks: 2
     files: 1367
   Yaml:
-    code: 31225
+    code: 31229
     comments: 419
     blanks: 3372
     files: 73
@@ -139,10 +139,10 @@ loc:
     blanks: 993
     files: 68
   Sh:
-    code: 2009
-    comments: 388
-    blanks: 409
-    files: 26
+    code: 2126
+    comments: 394
+    blanks: 434
+    files: 27
   Toml:
     code: 1846
     comments: 42
@@ -205,8 +205,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 32814
-    blanks: 12086
+    comments: 32810
+    blanks: 12083
     files: 133
   Text:
     code: 0
@@ -214,15 +214,15 @@ loc:
     blanks: 2
     files: 7
 total:
-  code: 2162189
-  comments: 118214
-  blanks: 312128
-  files: 13621
+  code: 2162348
+  comments: 118189
+  blanks: 312164
+  files: 13626
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:51:45+00:00
+  collectedAt: 2026-09-07T18:39:04+00:00
   platform:
     darwin/arm64:
       name:  difyctl-v0.2.0-alpha-darwin-arm64
