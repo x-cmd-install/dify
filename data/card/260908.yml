@@ -1,0 +1,230 @@
+about:
+  description: "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack."
+  license: NOASSERTION
+  homepage: https://dify.ai
+  head: 22189f6
+  archived: false
+  latestVersion: "1.17.0"
+  collectedAt: 2026-09-08T03:00:14Z
+timeline:
+  created: 2023-04-12
+  lastCommit: 2026-09-08
+  lastRelease: 2026-08-25
+popularity:
+  star: 154885
+  watcher: 837
+  fork: 24468
+  release: 169
+  contributor: 1441
+  pullRequest: 17932
+  issue: 18870
+language:
+  TypeScript: 40379886
+  Python: 37371315
+  JavaScript: 1514796
+  Go: 377059
+  CSS: 279290
+  HTML: 165358
+  Shell: 121921
+  Gherkin: 58603
+  Makefile: 17200
+  PowerShell: 12462
+  Dockerfile: 12343
+  PHP: 6106
+  Mako: 518
+totalBytes: 80316857
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 1
+    mergedPR: 735
+    openPR: 243
+    closedIssue: 169
+    openIssue: 146
+    commit: 772
+  last60d:
+    since: 2026-07-10
+    release: 3
+    mergedPR: 1531
+    openPR: 357
+    closedIssue: 372
+    openIssue: 247
+    commit: 1911
+  last90d:
+    since: 2026-06-10
+    release: 5
+    mergedPR: 2280
+    openPR: 448
+    closedIssue: 625
+    openIssue: 314
+    commit: 2856
+  last180d:
+    since: 2026-03-12
+    release: 11
+    mergedPR: 4024
+    openPR: 625
+    closedIssue: 1709
+    openIssue: 338
+    commit: 5370
+  last360d:
+    since: 2025-09-13
+    release: 27
+    mergedPR: 6354
+    openPR: 694
+    closedIssue: 5330
+    openIssue: 345
+    commit: 8814
+  last720d:
+    since: 2024-09-18
+    release: 77
+    mergedPR: 10546
+    openPR: 698
+    closedIssue: 14728
+    openIssue: 347
+    commit: 9850
+total:
+  release: 169
+  mergedPR: 13928
+  openPR: 698
+  closedIssue: 18523
+  openIssue: 347
+  commit: 13171
+---
+path: /home/runner/.x-repo/github.com/langgenius/dify
+collectedAt: 2026-09-08T03:01:12Z
+loc:
+  Python:
+    code: 794573
+    comments: 27090
+    blanks: 145455
+    files: 3968
+  Tsx:
+    code: 703845
+    comments: 13992
+    blanks: 91165
+    files: 4490
+  TypeScript:
+    code: 356025
+    comments: 18726
+    blanks: 51388
+    files: 2493
+  Json:
+    code: 203519
+    comments: 0
+    blanks: 2
+    files: 1367
+  Yaml:
+    code: 31229
+    comments: 419
+    blanks: 3372
+    files: 73
+  JavaScript:
+    code: 30631
+    comments: 23364
+    blanks: 4562
+    files: 133
+  Go:
+    code: 11260
+    comments: 698
+    blanks: 1305
+    files: 66
+  Svg:
+    code: 9597
+    comments: 0
+    blanks: 6
+    files: 638
+  Css:
+    code: 6994
+    comments: 238
+    blanks: 993
+    files: 68
+  Sh:
+    code: 2126
+    comments: 394
+    blanks: 434
+    files: 27
+  Toml:
+    code: 1846
+    comments: 42
+    blanks: 130
+    files: 45
+  Html:
+    code: 1511
+    comments: 29
+    blanks: 175
+    files: 60
+  Gherkin:
+    code: 1054
+    comments: 0
+    blanks: 75
+    files: 37
+  Makefile:
+    code: 330
+    comments: 32
+    blanks: 62
+    files: 3
+  Bash:
+    code: 304
+    comments: 36
+    blanks: 71
+    files: 11
+  Dockerfile:
+    code: 283
+    comments: 70
+    blanks: 87
+    files: 7
+  PowerShell:
+    code: 213
+    comments: 29
+    blanks: 29
+    files: 2
+  Php:
+    code: 173
+    comments: 0
+    blanks: 33
+    files: 1
+  Ini:
+    code: 71
+    comments: 7
+    blanks: 12
+    files: 2
+  Xml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 10
+    comments: 15
+    blanks: 12
+    files: 1
+  Sql:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 32833
+    blanks: 12086
+    files: 134
+  Text:
+    code: 0
+    comments: 82
+    blanks: 2
+    files: 7
+total:
+  code: 2161538
+  comments: 118200
+  blanks: 312114
+  files: 13635
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	difyctl-v0.2.0-alpha-darwin-arm64	https://github.com/langgenius/dify/releases/download/1.17.0/difyctl-v0.2.0-alpha-darwin-arm64	62225056	38
+darwin/amd64	difyctl-v0.2.0-alpha-darwin-x64	https://github.com/langgenius/dify/releases/download/1.17.0/difyctl-v0.2.0-alpha-darwin-x64	67308096	38
+linux/arm64	difyctl-v0.2.0-alpha-linux-arm64	https://github.com/langgenius/dify/releases/download/1.17.0/difyctl-v0.2.0-alpha-linux-arm64	102151117	38
+linux/amd64	difyctl-v0.2.0-alpha-linux-x64	https://github.com/langgenius/dify/releases/download/1.17.0/difyctl-v0.2.0-alpha-linux-x64	103021613	38
+win/arm64			
+win/amd64	difyctl-v0.2.0-alpha-windows-x64.exe	https://github.com/langgenius/dify/releases/download/1.17.0/difyctl-v0.2.0-alpha-windows-x64.exe	117952512	38
