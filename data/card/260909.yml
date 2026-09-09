@@ -1,0 +1,227 @@
+about:
+  description: "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack."
+  license: NOASSERTION
+  homepage: https://dify.ai
+  head: 3f76dbe
+  archived: false
+  latestVersion: "1.17.0"
+  latestRelease: "1.17.0"
+  latestPrerelease: "1.16.0-rc1"
+  collectedAt: 2026-09-09T06:06:03Z
+timeline:
+  created: 2023-04-12
+  lastCommit: 2026-09-09
+  lastVersion: 2026-08-25
+  lastRelease: 2026-08-25
+  lastPrerelease: 2026-07-09
+popularity:
+  star: 155124
+  watcher: 836
+  fork: 24500
+  release: 169
+  contributor: 1445
+  pullRequest: 18009
+  issue: 18905
+language:
+  TypeScript: 40519629
+  Python: 37405309
+  JavaScript: 1515201
+  Go: 377059
+  CSS: 279492
+  HTML: 165358
+  Shell: 122050
+  Gherkin: 58603
+  Makefile: 17200
+  PowerShell: 12462
+  Dockerfile: 12343
+  PHP: 6106
+  Mako: 518
+totalBytes: 80491330
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 1
+    mergedPR: 758
+    openPR: 249
+    closedIssue: 190
+    openIssue: 145
+    commit: 835
+  last60d:
+    since: 2026-07-11
+    release: 3
+    mergedPR: 1580
+    openPR: 369
+    closedIssue: 398
+    openIssue: 255
+    commit: 1974
+  last90d:
+    since: 2026-06-11
+    release: 5
+    mergedPR: 2317
+    openPR: 459
+    closedIssue: 641
+    openIssue: 320
+    commit: 2919
+  last180d:
+    since: 2026-03-13
+    release: 11
+    mergedPR: 4063
+    openPR: 635
+    closedIssue: 1710
+    openIssue: 344
+    commit: 5433
+  last360d:
+    since: 2025-09-14
+    release: 27
+    mergedPR: 6399
+    openPR: 697
+    closedIssue: 5346
+    openIssue: 351
+    commit: 8877
+  last720d:
+    since: 2024-09-19
+    release: 77
+    mergedPR: 10588
+    openPR: 701
+    closedIssue: 14742
+    openIssue: 353
+    commit: 9897
+total:
+  release: 169
+  mergedPR: 13980
+  openPR: 701
+  closedIssue: 18552
+  openIssue: 353
+  commit: 13222
+---
+path: /home/runner/.x-repo/github.com/langgenius/dify
+collectedAt: 2026-09-09T06:06:53Z
+loc:
+  Python:
+    code: 795613
+    comments: 27121
+    blanks: 145552
+    files: 3981
+  Tsx:
+    code: 706778
+    comments: 13961
+    blanks: 91284
+    files: 4504
+  TypeScript:
+    code: 356457
+    comments: 18730
+    blanks: 51422
+    files: 2499
+  Json:
+    code: 203874
+    comments: 0
+    blanks: 2
+    files: 1367
+  Yaml:
+    code: 31474
+    comments: 419
+    blanks: 3439
+    files: 73
+  JavaScript:
+    code: 30643
+    comments: 23364
+    blanks: 4562
+    files: 133
+  Go:
+    code: 11260
+    comments: 698
+    blanks: 1305
+    files: 66
+  Svg:
+    code: 9597
+    comments: 0
+    blanks: 6
+    files: 638
+  Css:
+    code: 6999
+    comments: 238
+    blanks: 994
+    files: 68
+  Sh:
+    code: 2127
+    comments: 394
+    blanks: 434
+    files: 27
+  Toml:
+    code: 1845
+    comments: 42
+    blanks: 130
+    files: 45
+  Html:
+    code: 1511
+    comments: 29
+    blanks: 175
+    files: 60
+  Gherkin:
+    code: 1054
+    comments: 0
+    blanks: 75
+    files: 37
+  Makefile:
+    code: 330
+    comments: 32
+    blanks: 62
+    files: 3
+  Bash:
+    code: 304
+    comments: 36
+    blanks: 71
+    files: 11
+  Dockerfile:
+    code: 283
+    comments: 70
+    blanks: 87
+    files: 7
+  PowerShell:
+    code: 213
+    comments: 29
+    blanks: 29
+    files: 2
+  Php:
+    code: 173
+    comments: 0
+    blanks: 33
+    files: 1
+  Ini:
+    code: 71
+    comments: 7
+    blanks: 12
+    files: 2
+  Xml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 10
+    comments: 15
+    blanks: 12
+    files: 1
+  Sql:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 32883
+    blanks: 12100
+    files: 135
+  Text:
+    code: 0
+    comments: 82
+    blanks: 2
+    files: 7
+total:
+  code: 2166560
+  comments: 118254
+  blanks: 312446
+  files: 13669
+---
+
+---
