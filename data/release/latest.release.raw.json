@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 472,
       "digest": "sha256:765bd28cc06b66e44ad0bdac7a2f7565e9a01cbd4a2a3e1a197f93d1b2b56692",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:04:59Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 103133497,
       "digest": "sha256:d834d2699607657474abf15baa8bac711b2210f20d574e2d7925b2ea6f86e30c",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:02Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 118064640,
       "digest": "sha256:13d38e0a0061eec6e25cfdf3aa287743d468d186a09621fa92de3550a1dc96e0",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:03Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-windows-x64.exe"
