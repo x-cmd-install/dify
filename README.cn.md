@@ -12,7 +12,7 @@ Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o
 x install dify
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **2,170,291** 行代码（覆盖前 5 种语言、共 **12465** 个文件）。
 
@@ -38,7 +38,7 @@ x install dify
 
 ## 流行度
 
-- **Star**: 155,353 · **Fork**: 24,532 · **开放 issue**: 18,939 · **贡献者**: 1,448
+- **Star**: 155,354 · **Fork**: 24,532 · **开放 issue**: 18,939 · **贡献者**: 1,448
 
 ## 累计统计
 
@@ -75,4 +75,4 @@ dify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:50:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:06:22Z._

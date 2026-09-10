@@ -38,7 +38,7 @@ Total: **2,170,291** lines of code across **12465** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 155,353 · **Forks**: 24,532 · **Open issues**: 18,939 · **Contributors**: 1,448
+- **Stars**: 155,354 · **Forks**: 24,532 · **Open issues**: 18,939 · **Contributors**: 1,448
 
 ## Totals (cumulative)
 
@@ -75,4 +75,4 @@ Install metadata for dify lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:49:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:06:21Z._
