@@ -7,7 +7,7 @@ about:
   latestVersion: "1.17.1"
   latestRelease: "1.17.1"
   latestPrerelease: "1.16.0-rc1"
-  collectedAt: 2026-09-10T21:48:51Z
+  collectedAt: 2026-09-10T22:05:14Z
 timeline:
   created: 2023-04-12
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-07-09
 popularity:
-  star: 155353
+  star: 155354
   watcher: 836
   fork: 24532
   release: 170
@@ -95,7 +95,7 @@ total:
   commit: 13288
 ---
 path: /home/runner/.x-repo/github.com/langgenius/dify
-collectedAt: 2026-09-10T21:49:50Z
+collectedAt: 2026-09-10T22:06:08Z
 loc:
   Python:
     code: 797703
