@@ -38,22 +38,22 @@ Total: **2,172,090** lines of code across **12476** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 155,477 · **Forks**: 24,557 · **Open issues**: 18,960 · **Contributors**: 1,451
+- **Stars**: 155,559 · **Forks**: 24,573 · **Open issues**: 18,963 · **Contributors**: 1,451
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 14078 · **Open PRs**: 698 · **Closed issues**: 18597 · **Open issues**: 363 · **Commits**: 13311
+- **Releases**: 170 · **Merged PRs**: 14078 · **Open PRs**: 702 · **Closed issues**: 18599 · **Open issues**: 364 · **Commits**: 13311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 652 | 228 | 213 | 143 | 940 |
-| last60d | 2026-07-14 | 4 | 1586 | 360 | 422 | 255 | 2079 |
-| 90d | 2026-06-14 | 6 | 2376 | 451 | 671 | 328 | 3024 |
-| last180d | 2026-03-16 | 12 | 4115 | 632 | 1724 | 353 | 5538 |
-| 360d | 2025-09-17 | 28 | 6434 | 693 | 5304 | 361 | 8982 |
-| last720d | 2024-09-22 | 77 | 10668 | 698 | 14744 | 363 | 9962 |
+| 30d | 2026-08-14 | 2 | 624 | 228 | 211 | 137 | 716 |
+| last60d | 2026-07-15 | 4 | 1543 | 360 | 415 | 250 | 1844 |
+| 90d | 2026-06-15 | 6 | 2350 | 454 | 659 | 329 | 2809 |
+| last180d | 2026-03-17 | 12 | 4095 | 634 | 1705 | 354 | 5299 |
+| 360d | 2025-09-18 | 28 | 6402 | 697 | 5277 | 362 | 8860 |
+| last720d | 2024-09-23 | 77 | 10654 | 702 | 14719 | 364 | 9946 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for dify lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:50:46Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:15:50Z._
