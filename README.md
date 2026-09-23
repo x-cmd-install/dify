@@ -4,7 +4,7 @@
 
 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
-[![x-cmd/install — dify Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dify.svg)](https://x-cmd.com/install/dify)
+[![x-cmd/install — dify Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dify.svg)](https://x-cmd.com/install/dify)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install dify
 
 ## Code insight
 
-Total: **2,213,876** lines of code across **12633** files in the top 5 languages.
+Total: **2,179,698** lines of code across **12030** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 820,692 | 27,288 | 148,762 | 4063 |
-| Tsx | 721,477 | 13,462 | 91,344 | 4551 |
-| TypeScript | 361,791 | 19,062 | 51,559 | 2535 |
-| Json | 210,969 | 0 | 2 | 1410 |
-| Yaml | 32,349 | 423 | 3,535 | 74 |
+| Python | 824,456 | 27,172 | 149,571 | 4108 |
+| Tsx | 722,441 | 12,954 | 90,454 | 4353 |
+| TypeScript | 362,809 | 19,139 | 51,652 | 2501 |
+| Json | 171,251 | 0 | 2 | 994 |
+| Yaml | 31,938 | 424 | 3,524 | 74 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,213,876** lines of code across **12633** files in the top 5 languages
 ## Release
 
 - **Latest**: `1.17.1` (2026-09-10)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 156,806 · **Forks**: 24,721 · **Open issues**: 19,084 · **Contributors**: 1,470
+- **Stars**: 156,921 · **Forks**: 24,736 · **Open issues**: 19,105 · **Contributors**: 1,474
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 14300 · **Open PRs**: 688 · **Closed issues**: 18681 · **Open issues**: 403 · **Commits**: 13524
+- **Releases**: 170 · **Merged PRs**: 14354 · **Open PRs**: 681 · **Closed issues**: 18702 · **Open issues**: 403 · **Commits**: 13566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 692 | 204 | 248 | 157 | 713 |
-| last60d | 2026-07-24 | 3 | 1494 | 319 | 410 | 262 | 1762 |
-| 90d | 2026-06-24 | 6 | 2374 | 412 | 669 | 356 | 2815 |
-| last180d | 2026-03-26 | 10 | 4084 | 607 | 1618 | 389 | 5295 |
-| 360d | 2025-09-27 | 27 | 6534 | 683 | 5151 | 399 | 8976 |
-| last720d | 2024-10-02 | 73 | 10776 | 688 | 14655 | 403 | 10053 |
+| 30d | 2026-08-24 | 2 | 700 | 195 | 245 | 157 | 760 |
+| last60d | 2026-07-25 | 3 | 1537 | 308 | 429 | 260 | 1809 |
+| 90d | 2026-06-25 | 6 | 2380 | 403 | 683 | 356 | 2862 |
+| last180d | 2026-03-27 | 10 | 4117 | 597 | 1612 | 388 | 5342 |
+| 360d | 2025-09-28 | 27 | 6571 | 676 | 5131 | 399 | 9023 |
+| last720d | 2024-10-03 | 73 | 10827 | 681 | 14669 | 403 | 10093 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for dify lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:17:50Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:33:34Z._

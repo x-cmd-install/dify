@@ -4,7 +4,7 @@
 
 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
-[![x-cmd/install — dify Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dify.svg?lang=zh)](https://x-cmd.com/install/dify)
+[![x-cmd/install — dify Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dify.svg?lang=zh)](https://x-cmd.com/install/dify)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install dify
 
 ## 代码洞察
 
-合计: **2,213,876** 行代码（覆盖前 5 种语言、共 **12633** 个文件）。
+合计: **2,179,698** 行代码（覆盖前 5 种语言、共 **12030** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 820,692 | 27,288 | 148,762 | 4063 |
-| Tsx | 721,477 | 13,462 | 91,344 | 4551 |
-| TypeScript | 361,791 | 19,062 | 51,559 | 2535 |
-| Json | 210,969 | 0 | 2 | 1410 |
-| Yaml | 32,349 | 423 | 3,535 | 74 |
+| Python | 824,456 | 27,172 | 149,571 | 4108 |
+| Tsx | 722,441 | 12,954 | 90,454 | 4353 |
+| TypeScript | 362,809 | 19,139 | 51,652 | 2501 |
+| Json | 171,251 | 0 | 2 | 994 |
+| Yaml | 31,938 | 424 | 3,524 | 74 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install dify
 ## 发布
 
 - **最新版本**: `1.17.1` (2026-09-10)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 156,806 · **Fork**: 24,721 · **开放 issue**: 19,084 · **贡献者**: 1,470
+- **Star**: 156,921 · **Fork**: 24,736 · **开放 issue**: 19,105 · **贡献者**: 1,474
 
 ## 累计统计
 
-- **发布数**: 170 · **已合并 PR**: 14300 · **开放 PR**: 688 · **已关闭 issue**: 18681 · **开放 issue**: 403 · **提交数**: 13524
+- **发布数**: 170 · **已合并 PR**: 14354 · **开放 PR**: 681 · **已关闭 issue**: 18702 · **开放 issue**: 403 · **提交数**: 13566
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 692 | 204 | 248 | 157 | 713 |
-| last60d | 2026-07-24 | 3 | 1494 | 319 | 410 | 262 | 1762 |
-| 90d | 2026-06-24 | 6 | 2374 | 412 | 669 | 356 | 2815 |
-| last180d | 2026-03-26 | 10 | 4084 | 607 | 1618 | 389 | 5295 |
-| 360d | 2025-09-27 | 27 | 6534 | 683 | 5151 | 399 | 8976 |
-| last720d | 2024-10-02 | 73 | 10776 | 688 | 14655 | 403 | 10053 |
+| 30d | 2026-08-24 | 2 | 700 | 195 | 245 | 157 | 760 |
+| last60d | 2026-07-25 | 3 | 1537 | 308 | 429 | 260 | 1809 |
+| 90d | 2026-06-25 | 6 | 2380 | 403 | 683 | 356 | 2862 |
+| last180d | 2026-03-27 | 10 | 4117 | 597 | 1612 | 388 | 5342 |
+| 360d | 2025-09-28 | 27 | 6571 | 676 | 5131 | 399 | 9023 |
+| last720d | 2024-10-03 | 73 | 10827 | 681 | 14669 | 403 | 10093 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ dify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:17:51Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:33:35Z._
