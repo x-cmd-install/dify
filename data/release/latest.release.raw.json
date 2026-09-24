@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 472,
       "digest": "sha256:765bd28cc06b66e44ad0bdac7a2f7565e9a01cbd4a2a3e1a197f93d1b2b56692",
-      "download_count": 240,
+      "download_count": 260,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:04:59Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 62340640,
       "digest": "sha256:9c55017653f19b20ed1c579e92ac6d71affcbd86c02835312603b9a6fb813068",
-      "download_count": 134,
+      "download_count": 150,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:01Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 67422784,
       "digest": "sha256:ed618e5865e8011de39e0e9fcd58a3fee35062a4abe2532045e63e9ef7b05bd7",
-      "download_count": 68,
+      "download_count": 71,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:02Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-darwin-x64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 102263001,
       "digest": "sha256:a943f541b16ccf527c20f97526ec480e2434ef2d4511530b8dd7aa859c882072",
-      "download_count": 59,
+      "download_count": 62,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:02Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 103133497,
       "digest": "sha256:d834d2699607657474abf15baa8bac711b2210f20d574e2d7925b2ea6f86e30c",
-      "download_count": 311,
+      "download_count": 331,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:02Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 118064640,
       "digest": "sha256:13d38e0a0061eec6e25cfdf3aa287743d468d186a09621fa92de3550a1dc96e0",
-      "download_count": 1084,
+      "download_count": 1167,
       "created_at": "2026-09-10T10:04:59Z",
       "updated_at": "2026-09-10T10:05:03Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.17.1/difyctl-v1.17.1-windows-x64.exe"
