@@ -14,15 +14,15 @@ x install dify
 
 ## Code insight
 
-Total: **2,210,940** lines of code across **12581** files in the top 5 languages.
+Total: **2,211,427** lines of code across **12585** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 847,483 | 25,915 | 152,868 | 4313 |
+| Python | 847,907 | 25,917 | 152,915 | 4316 |
 | Tsx | 733,845 | 12,693 | 90,138 | 4375 |
 | TypeScript | 356,401 | 18,471 | 49,561 | 2397 |
 | Json | 174,258 | 0 | 2 | 1421 |
-| Yaml | 32,154 | 425 | 3,544 | 75 |
+| Yaml | 32,216 | 426 | 3,544 | 76 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **2,210,940** lines of code across **12581** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 157,740 · **Forks**: 24,892 · **Open issues**: 19,237 · **Contributors**: 1,495
+- **Stars**: 157,796 · **Forks**: 24,900 · **Open issues**: 19,249 · **Contributors**: 1,495
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 14637 · **Open PRs**: 535 · **Closed issues**: 18796 · **Open issues**: 441 · **Commits**: 13838
+- **Releases**: 170 · **Merged PRs**: 14645 · **Open PRs**: 542 · **Closed issues**: 18796 · **Open issues**: 453 · **Commits**: 13846
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 716 | 295 | 228 | 172 | 836 |
-| last60d | 2026-08-04 | 2 | 1631 | 379 | 442 | 279 | 1861 |
-| 90d | 2026-07-05 | 5 | 2474 | 428 | 671 | 376 | 2921 |
-| last180d | 2026-04-06 | 9 | 4233 | 499 | 1585 | 425 | 5387 |
-| 360d | 2025-10-08 | 26 | 6773 | 534 | 5088 | 436 | 9220 |
-| last720d | 2024-10-13 | 72 | 11015 | 535 | 14607 | 441 | 10277 |
+| 30d | 2026-09-04 | 1 | 686 | 295 | 218 | 178 | 573 |
+| last60d | 2026-08-05 | 2 | 1615 | 385 | 433 | 285 | 1566 |
+| 90d | 2026-07-06 | 5 | 2456 | 434 | 662 | 384 | 2715 |
+| last180d | 2026-04-07 | 9 | 4196 | 505 | 1565 | 437 | 5018 |
+| 360d | 2025-10-09 | 26 | 6776 | 541 | 5066 | 448 | 9058 |
+| last720d | 2024-10-14 | 72 | 11007 | 542 | 14585 | 453 | 10281 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for dify lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:20:55Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:51:34Z._
