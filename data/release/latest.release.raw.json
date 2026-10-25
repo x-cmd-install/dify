@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 472,
       "digest": "sha256:f7a02be8b0800448bb42c10911434cec2c01a36968158e5ba03d6c422b2d23b0",
-      "download_count": 39,
+      "download_count": 56,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:38Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63151602,
       "digest": "sha256:c9dd3e4ac2e5e5afa7e3ae6c2ab0794994c834438b25791fc8de13c614c13b85",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:41Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 70267152,
       "digest": "sha256:430374c00dcca3421b6793f4d04b23e6b9e54e76a618b19e2881d816cf75d6ee",
-      "download_count": 15,
+      "download_count": 19,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:41Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-x64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 84461864,
       "digest": "sha256:ba696fb67bacce63aba9fa9ab9b67bbf4300429a5a5dfb13879938371dc22780",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:41Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 84792800,
       "digest": "sha256:2ab8eafb3c6870272fef0c9d1faea99181500905091a6c7b38e4e5c9822eb99b",
-      "download_count": 38,
+      "download_count": 61,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:41Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 88377856,
       "digest": "sha256:6f5cdea324737de4ab6e14a505a540e1795de1f722b8ecfeb329dc6398f0852f",
-      "download_count": 94,
+      "download_count": 164,
       "created_at": "2026-10-23T06:35:38Z",
       "updated_at": "2026-10-23T06:35:41Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-windows-x64.exe"
