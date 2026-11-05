@@ -14,14 +14,14 @@ x install dify
 
 ## 代码洞察
 
-合计: **2,573,540** 行代码（覆盖前 5 种语言、共 **14185** 个文件）。
+合计: **2,578,520** 行代码（覆盖前 5 种语言、共 **14207** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 1,092,696 | 25,956 | 181,490 | 4884 |
-| Tsx | 688,195 | 3,935 | 57,633 | 4543 |
-| TypeScript | 420,050 | 24,963 | 53,591 | 2820 |
-| Json | 270,398 | 0 | 2 | 1790 |
+| Python | 1,097,663 | 25,983 | 182,324 | 4907 |
+| Tsx | 688,364 | 3,937 | 57,648 | 4542 |
+| TypeScript | 420,065 | 24,975 | 53,589 | 2820 |
+| Json | 270,248 | 0 | 2 | 1790 |
 | JavaScript | 33,414 | 23,410 | 4,386 | 148 |
 
 ## 源代码
@@ -32,39 +32,39 @@ x install dify
 
 ## 发布
 
-- **最新版本**: `1.18.0` (2026-10-23)
-- **最近提交**: 2026-11-04
+- **最新版本**: `1.19.0` (2026-11-04)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 160,373 · **Fork**: 25,362 · **开放 issue**: 19,689 · **贡献者**: 1,565
+- **Star**: 160,446 · **Fork**: 25,379 · **开放 issue**: 19,714 · **贡献者**: 1,572
 
 ## 累计统计
 
-- **发布数**: 171 · **已合并 PR**: 15751 · **开放 PR**: 688 · **已关闭 issue**: 19160 · **开放 issue**: 529 · **提交数**: 14814
+- **发布数**: 172 · **已合并 PR**: 15806 · **开放 PR**: 681 · **已关闭 issue**: 19178 · **开放 issue**: 536 · **提交数**: 14863
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 936 | 326 | 275 | 163 | 1093 |
-| last60d | 2026-09-05 | 2 | 1760 | 496 | 543 | 289 | 1854 |
-| 90d | 2026-08-06 | 3 | 2668 | 564 | 770 | 379 | 2895 |
-| last180d | 2026-05-08 | 9 | 4661 | 653 | 1616 | 512 | 5545 |
-| 360d | 2025-11-09 | 25 | 7540 | 687 | 4737 | 524 | 9807 |
-| last720d | 2024-11-14 | 66 | 11681 | 688 | 14272 | 529 | 10820 |
+| 30d | 2026-10-06 | 2 | 966 | 345 | 281 | 178 | 1162 |
+| last60d | 2026-09-06 | 3 | 1789 | 513 | 550 | 306 | 1923 |
+| 90d | 2026-08-07 | 4 | 2675 | 578 | 778 | 392 | 2964 |
+| last180d | 2026-05-09 | 10 | 4693 | 653 | 1622 | 521 | 5614 |
+| 360d | 2025-11-10 | 26 | 7586 | 681 | 4728 | 532 | 9876 |
+| last720d | 2024-11-15 | 67 | 11727 | 681 | 14266 | 536 | 10855 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [difyctl-v1.18.0-checksums.txt](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-checksums.txt) | 472 B | `other` |
-| [difyctl-v1.18.0-darwin-arm64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-arm64) | 60.2 MiB | `native/darwin/arm64` |
-| [difyctl-v1.18.0-darwin-x64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-x64) | 67.0 MiB | `native/darwin/x64` |
-| [difyctl-v1.18.0-linux-arm64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-arm64) | 80.5 MiB | `native/linux/arm64` |
-| [difyctl-v1.18.0-linux-x64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-x64) | 80.9 MiB | `other` |
-| [difyctl-v1.18.0-windows-x64.exe](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-windows-x64.exe) | 84.3 MiB | `native/win/x64` |
+| [difyctl-v1.19.0-checksums.txt](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-checksums.txt) | 472 B | `other` |
+| [difyctl-v1.19.0-darwin-arm64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-darwin-arm64) | 60.2 MiB | `native/darwin/arm64` |
+| [difyctl-v1.19.0-darwin-x64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-darwin-x64) | 67.0 MiB | `native/darwin/x64` |
+| [difyctl-v1.19.0-linux-arm64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-linux-arm64) | 80.5 MiB | `native/linux/arm64` |
+| [difyctl-v1.19.0-linux-x64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-linux-x64) | 80.9 MiB | `other` |
+| [difyctl-v1.19.0-windows-x64.exe](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-windows-x64.exe) | 84.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ dify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:31:45Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T08:01:21Z._

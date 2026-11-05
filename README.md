@@ -14,14 +14,14 @@ x install dify
 
 ## Code insight
 
-Total: **2,573,540** lines of code across **14185** files in the top 5 languages.
+Total: **2,578,520** lines of code across **14207** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,092,696 | 25,956 | 181,490 | 4884 |
-| Tsx | 688,195 | 3,935 | 57,633 | 4543 |
-| TypeScript | 420,050 | 24,963 | 53,591 | 2820 |
-| Json | 270,398 | 0 | 2 | 1790 |
+| Python | 1,097,663 | 25,983 | 182,324 | 4907 |
+| Tsx | 688,364 | 3,937 | 57,648 | 4542 |
+| TypeScript | 420,065 | 24,975 | 53,589 | 2820 |
+| Json | 270,248 | 0 | 2 | 1790 |
 | JavaScript | 33,414 | 23,410 | 4,386 | 148 |
 
 ## Source
@@ -32,39 +32,39 @@ Total: **2,573,540** lines of code across **14185** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `1.18.0` (2026-10-23)
-- **Last commit**: 2026-11-04
+- **Latest**: `1.19.0` (2026-11-04)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 160,373 · **Forks**: 25,362 · **Open issues**: 19,689 · **Contributors**: 1,565
+- **Stars**: 160,446 · **Forks**: 25,379 · **Open issues**: 19,714 · **Contributors**: 1,572
 
 ## Totals (cumulative)
 
-- **Releases**: 171 · **Merged PRs**: 15751 · **Open PRs**: 688 · **Closed issues**: 19160 · **Open issues**: 529 · **Commits**: 14814
+- **Releases**: 172 · **Merged PRs**: 15806 · **Open PRs**: 681 · **Closed issues**: 19178 · **Open issues**: 536 · **Commits**: 14863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 936 | 326 | 275 | 163 | 1093 |
-| last60d | 2026-09-05 | 2 | 1760 | 496 | 543 | 289 | 1854 |
-| 90d | 2026-08-06 | 3 | 2668 | 564 | 770 | 379 | 2895 |
-| last180d | 2026-05-08 | 9 | 4661 | 653 | 1616 | 512 | 5545 |
-| 360d | 2025-11-09 | 25 | 7540 | 687 | 4737 | 524 | 9807 |
-| last720d | 2024-11-14 | 66 | 11681 | 688 | 14272 | 529 | 10820 |
+| 30d | 2026-10-06 | 2 | 966 | 345 | 281 | 178 | 1162 |
+| last60d | 2026-09-06 | 3 | 1789 | 513 | 550 | 306 | 1923 |
+| 90d | 2026-08-07 | 4 | 2675 | 578 | 778 | 392 | 2964 |
+| last180d | 2026-05-09 | 10 | 4693 | 653 | 1622 | 521 | 5614 |
+| 360d | 2025-11-10 | 26 | 7586 | 681 | 4728 | 532 | 9876 |
+| last720d | 2024-11-15 | 67 | 11727 | 681 | 14266 | 536 | 10855 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [difyctl-v1.18.0-checksums.txt](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-checksums.txt) | 472 B | `other` |
-| [difyctl-v1.18.0-darwin-arm64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-arm64) | 60.2 MiB | `native/darwin/arm64` |
-| [difyctl-v1.18.0-darwin-x64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-darwin-x64) | 67.0 MiB | `native/darwin/x64` |
-| [difyctl-v1.18.0-linux-arm64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-arm64) | 80.5 MiB | `native/linux/arm64` |
-| [difyctl-v1.18.0-linux-x64](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-linux-x64) | 80.9 MiB | `other` |
-| [difyctl-v1.18.0-windows-x64.exe](https://github.com/langgenius/dify/releases/download/1.18.0/difyctl-v1.18.0-windows-x64.exe) | 84.3 MiB | `native/win/x64` |
+| [difyctl-v1.19.0-checksums.txt](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-checksums.txt) | 472 B | `other` |
+| [difyctl-v1.19.0-darwin-arm64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-darwin-arm64) | 60.2 MiB | `native/darwin/arm64` |
+| [difyctl-v1.19.0-darwin-x64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-darwin-x64) | 67.0 MiB | `native/darwin/x64` |
+| [difyctl-v1.19.0-linux-arm64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-linux-arm64) | 80.5 MiB | `native/linux/arm64` |
+| [difyctl-v1.19.0-linux-x64](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-linux-x64) | 80.9 MiB | `other` |
+| [difyctl-v1.19.0-windows-x64.exe](https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-windows-x64.exe) | 84.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for dify lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:31:44Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:01:18Z._
