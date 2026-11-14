@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 472,
       "digest": "sha256:4b77be0cba47fd3b84c78fa8ee4d80ea436452b86120f3fcbc10fc4e92d5710b",
-      "download_count": 275,
+      "download_count": 294,
       "created_at": "2026-11-04T07:37:30Z",
       "updated_at": "2026-11-04T07:37:30Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63151602,
       "digest": "sha256:370a76b12efe68942ce30d170ae1c59a7c53d1e0cfba504a82e0dfe8706495e1",
-      "download_count": 181,
+      "download_count": 191,
       "created_at": "2026-11-04T07:37:30Z",
       "updated_at": "2026-11-04T07:37:33Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 84800992,
       "digest": "sha256:3c855fd9d225950518c97a561c055da73e3ed632118553329441442c6a8cf00d",
-      "download_count": 242,
+      "download_count": 261,
       "created_at": "2026-11-04T07:37:30Z",
       "updated_at": "2026-11-04T07:37:33Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 88382976,
       "digest": "sha256:ff4c0add2f713b5220a78a06e867d03f2309fecac2ba3c3787541b4005fe58c2",
-      "download_count": 784,
+      "download_count": 837,
       "created_at": "2026-11-04T07:37:31Z",
       "updated_at": "2026-11-04T07:37:34Z",
       "browser_download_url": "https://github.com/langgenius/dify/releases/download/1.19.0/difyctl-v1.19.0-windows-x64.exe"
